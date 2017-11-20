@@ -2,8 +2,10 @@
 
 ## Install
 
+Fork of `filed` library that pins `mime` version to `^1.4.0`, as version 2.0 of `mime` has breaking changes and is only Node 6+ compatible.
+
 <pre>
-  npm install filed
+  npm install filed-mimefix
 </pre>
 
 ## Super simple to use
